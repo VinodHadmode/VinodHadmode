@@ -1,5 +1,5 @@
 # 💫 About Me:
--🌱 I'm aspiring **MERN Stack developer**<br>- 🔭 I’m currently working on **Myntra-Clone**<br><br>- 🌱 I’m currently learning **React JS**<br><br>- 💬 Ask me about **Javascript,React.**<br><br>- 📫 How to reach me **vinodhadmode@gmail.com**
+-🌱 I'm aspiring **MERN Stack developer**<br><br>- 🔭 I’m currently working on **Myntra-Clone**<br><br>- 🌱 I’m currently learning **React JS**<br><br>- 💬 Ask me about **Javascript,React.**<br><br>- 📫 How to reach me **vinodhadmode@gmail.com**
 
 
 ## 🌐 Socials:
