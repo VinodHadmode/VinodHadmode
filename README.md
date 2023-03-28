@@ -3,7 +3,7 @@
 
 
 -👨‍💻 I'm aspiring **MERN Stack developer**<br><br>-🔭 I’m currently working on **Myntra-Clone**<br><br>-🌱 I’m currently learning **React JS**<br><br>-💬 Ask me about **Javascript,React.**<br><br>-📫 How to reach out to me **vinodhadmode@gmail.com**
-<br><br>-💻 My Portfolio Link https://vinodhadmode.github.io/ 
+<br><br>-💻 My Portfolio [Portfolio](https://vinodhadmode.github.io/)
 
 
 ## 🌐 Socials:
