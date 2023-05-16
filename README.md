@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Web developer from India</h3><br>
 
 
--👨‍💻 I'm aspiring **MERN Stack developer**<br><br>-🔭 I’m currently working on **Myntra-Clone**<br><br>-🌱 I’m currently learning **React JS**<br><br>-💬 Ask me about **Javascript,React.**<br><br>-📫 How to reach out to me **vinodhadmode@gmail.com**
+-👨‍💻 I'm aspiring **MERN Stack developer**<br><br>-🔭 I’m currently working on **Myntra-Clone**<br><br>-🌱 I’m currently learning **Express**<br><br>-💬 Ask me about **Javascript,React.**<br><br>-📫 How to reach out to me **vinodhadmode@gmail.com**
 <br><br>-💻 My Portfolio [Portfolio](https://vinodhadmode.github.io/)
 
 
