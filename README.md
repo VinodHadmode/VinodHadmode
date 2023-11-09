@@ -4,7 +4,7 @@
 
 -👨‍💻 I'm aspiring **MERN Stack developer**<br><br>-🔭 I’m currently working on **Myntra-Clone**<br><br>-🌱 I’m currently learning **Express**<br><br>-💬 Ask me about **Javascript,React.**<br><br>-📫 How to reach out to me **vinodhadmode@gmail.com** 
 <br><br>-💻 My Portfolio [Portfolio](https://vinodhadmode.github.io/) <br><br>
-My Resume : https://drive.google.com/file/d/1NzvvwbWbj4L9p0Sby8mEA0d4qLewUS5x/view
+My Resume : [Resume](https://drive.google.com/file/d/1NzvvwbWbj4L9p0Sby8mEA0d4qLewUS5x/view)
 
 
 ## 🌐 Socials:
