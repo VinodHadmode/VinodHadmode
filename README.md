@@ -11,8 +11,7 @@
 - 👨‍💻 I'm aspiring **MERN Stack developer**
 - 📁 I’m currently learning **AWS**
 - 🔭 I’m currently working on **Myntra-Clone**
-- 💬 Ask me about anything related to MERN stack and related technologies.
-- 💼  My Portfolio [Vinod Hadmode](https://vinodhadmode.github.io/)    
+- 💬 Ask me about anything related to the MERN stack and related technologies.
 - ✉️ How to reach out to me **vinodhadmode@gmail.com** 
 
 ## 🌐 Socials:
