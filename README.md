@@ -4,13 +4,12 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Vinod Hadmode</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3><br>
+<h1 align="center">Hi, I'm Vinod Hadmode</h1>
+<h3 align="center">A Full Stack Web developer</h3><br>
 
 
-- 👨‍💻 I'm aspiring **MERN Stack developer**
+- 👨‍💻 I'm **MERN Stack developer**
 - 📁 I’m currently learning **AWS**
-- 🔭 I’m currently working on **Myntra-Clone**
 - 💬 Ask me about anything related to the MERN stack and related technologies.
 - ✉️ How to reach out to me **vinodhadmode@gmail.com** 
 
