@@ -5,8 +5,6 @@
 
 
 <h1 align="center">Hi, I'm Vinod Hadmode</h1>
-<h3 align="center">A Full Stack Web developer</h3><br>
-
 
 - 👨‍💻 I'm **MERN Stack developer**
 - 📁 I’m currently learning **AWS**
